@@ -1,0 +1,14 @@
+ clickhouse-client --query="show databases" --database=imdb --password > databases.txt
+ clickhouse-client --query="show tables" --database=imdb --password > imdb_tables.txt
+/* a) Найти жанры для каждого фильма */
+clickhouse-client --query="with cte_genres as ( select  groupArray(g.genre) as genres, g.movie_id from imdb.genres as g group by g.movie_id ) select g.genres,m.name from cte_genres AS g inner join imdb.movies AS m on g.movie_id = m.id order by m.name ASC limit 50" --database=imdb --password > task_a.txt
+/* b) Запросить все фильмы, у которых нет жанра*/
+clickhouse-client --query="with cte_genres as (select  groupArray(g.genre) as genres, g.movie_id from imdb.genres as g group by g.movie_id) select g.genres, m.name from cte_genres AS g right outer join imdb.movies AS m on g.movie_id = m.id where g.movie_id=0 limit 10" --database=imdb --password > task_b.txt
+/*c) Объединить каждую строку из таблицы “Фильмы” с каждой строкой из таблицы “Жанры”*/
+clickhouse-client --query="SELECT g.genre, m.name, m.year, m.rank FROM imdb.movies AS m INNER JOIN imdb.genres AS g ON m.id = g.movie_id ORDER BY  m.year ASC,  m.rank DESC,  m.name ASC limit 100" --database=imdb --password > task_c.txt
+/*d) Найти жанры для каждого фильма, НЕ используя INNER JOIN*/
+clickhouse-client --query="with cte_genres as (select  groupArray(g.genre) as genres, g.movie_id from imdb.genres as g group by g.movie_id) select g.genres, m.name from cte_genres AS g left outer join imdb.movies AS m on g.movie_id = m.id where g.movie_id!=0 limit 10" --database=imdb --password > task_d.txt
+/*e) Найти всех актеров и актрис, снявшихся в фильме в 2023 году*/
+clickhouse-client --query="select m.name, a.last_name, a.first_name from imdb.movies m inner join imdb.roles r on m.id=r.movie_id inner join imdb.actors a on a.id = r.actor_id where m.year = 2007" --database=imdb --password > task_e.txt
+/*f) Запросить все фильмы, у которых нет жанра, через ANTI JOIN*/
+clickhouse-client --query="with cte_genres as (select  groupArray(g.genre) as genres, g.movie_id from imdb.genres as g group by g.movie_id) select m.id, m.name from cte_genres AS g right anti join imdb.movies AS m on g.movie_id = m.id order by m.name ASC limit 100" --database=imdb --password > task_f.txt 
