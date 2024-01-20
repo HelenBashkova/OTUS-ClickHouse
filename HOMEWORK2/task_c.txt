@@ -1,0 +1,100 @@
+Short	Roundhay Garden Scene	1888	0
+Short	Traffic Crossing Leeds Bridge	1888	0
+Short	Monkeyshines, No. 1	1890	7.3
+Short	Monkeyshines, No. 2	1890	0
+Short	Monkeyshines, No. 3	1890	0
+Short	Newark Athlete	1891	4.3
+Short	Men Boxing	1891	4
+Short	Pauvre Pierrot	1892	5.1
+Romance	Pauvre Pierrot	1892	5.1
+Comedy	Pauvre Pierrot	1892	5.1
+Animation	Pauvre Pierrot	1892	5.1
+Animation	Clown et ses chiens, Le	1892	3.8
+Short	Clown et ses chiens, Le	1892	3.8
+Short	Prince de Galles, Le	1892	2.9
+Documentary	Prince de Galles, Le	1892	2.9
+Animation	Un bon bock	1892	2
+Short	Un bon bock	1892	2
+Short	Blacksmith Scene	1893	6.8
+Short	Edison Kinetoscopic Record of a Sneeze	1894	6.8
+Documentary	Edison Kinetoscopic Record of a Sneeze	1894	6.8
+Short	Annabelle Serpentine Dance	1894	6.1
+Documentary	Annabelle Serpentine Dance	1894	6.1
+Short	Luis Martinetti, Contortionist	1894	5.9
+Documentary	Carmencita	1894	5.5
+Short	Carmencita	1894	5.5
+Documentary	Barbershop, The	1894	5.2
+Short	Barbershop, The	1894	5.2
+Short	Annie Oakley	1894	4.9
+Documentary	Annie Oakley	1894	4.9
+Short	Corbett and Courtney Before the Kinetograph	1894	4.7
+Short	Sioux Ghost Dance	1894	4.3
+Documentary	Buffalo Dance	1894	4.2
+Short	Buffalo Dance	1894	4.2
+Documentary	Glenroy Bros., No. 2	1894	4.1
+Short	Glenroy Bros., No. 2	1894	4.1
+Documentary	Bucking Broncho	1894	4
+Short	Bucking Broncho	1894	4
+Short	Leonard-Cushing Fight	1894	3.9
+Documentary	Leonard-Cushing Fight	1894	3.9
+Short	Band Drill	1894	3.6
+Short	Imperial Japanese Dance	1894	3.4
+Short	Athlete with Wand	1894	3.2
+Short	Hadj Cheriff	1894	3.2
+Documentary	Amateur Gymnast, No. 2	1894	0
+Short	Amateur Gymnast, No. 2	1894	0
+Short	Boxing Cats (Prof. Welton\'s)	1894	0
+Short	Boxing Match	1894	0
+Documentary	Boxing Match	1894	0
+Short	Caicedo (with Pole)	1894	0
+Short	Dance	1894	0
+Documentary	Dogs Fighting	1894	0
+Short	Dogs Fighting	1894	0
+Documentary	Fancy Club Swinger	1894	0
+Short	Fancy Club Swinger	1894	0
+Short	Finale of 1st Act, Hoyt\'s \'Milk White Flag\'	1894	0
+Short	Fire Rescue Scene	1894	0
+Drama	Fire Rescue Scene	1894	0
+Documentary	Glenroy Brothers (Comic Boxing)	1894	0
+Short	Glenroy Brothers (Comic Boxing)	1894	0
+Documentary	Men on Parallel Bars	1894	0
+Short	Men on Parallel Bars	1894	0
+Short	Pickanninies, The	1894	0
+Documentary	Pickanninies, The	1894	0
+Short	Rve au coin du feu	1894	0
+Short	Topack and Steele	1894	0
+Comedy	Topack and Steele	1894	0
+Short	Widder, The	1894	0
+Short	Arrive d\'un train  la Ciotat, L\'	1895	7.6
+Documentary	Arrive d\'un train  la Ciotat, L\'	1895	7.6
+Short	Arroseur arros, L\'	1895	7.6
+Comedy	Arroseur arros, L\'	1895	7.6
+Documentary	Sortie des usines Lumire, La	1895	7
+Short	Sortie des usines Lumire, La	1895	7
+Short	Djeuner du chat, Le	1895	6.2
+Documentary	Repas de bb	1895	6.2
+Short	Repas de bb	1895	6.2
+Comedy	Charcuterie mcanique, La	1895	6.1
+Sci-Fi	Charcuterie mcanique, La	1895	6.1
+Short	Charcuterie mcanique, La	1895	6.1
+Documentary	Lyon, place Bellecour	1895	6.1
+Short	Lyon, place Bellecour	1895	6.1
+Short	Chapeaux  transformations	1895	6
+Documentary	Neuville-sur-Sane: Debarquement du congrs de photographes  Lyon	1895	6
+Short	Neuville-sur-Sane: Debarquement du congrs de photographes  Lyon	1895	6
+Short	Mer, La	1895	5.9
+Documentary	Mer, La	1895	5.9
+Drama	Joan of Arc	1895	5.8
+Short	Joan of Arc	1895	5.8
+Short	Partie d\'carte	1895	5.8
+Documentary	Partie d\'carte	1895	5.8
+Short	Barque sortant du port	1895	5.7
+Documentary	Barque sortant du port	1895	5.7
+Documentary	Lion, London Zoological Gardens	1895	5.7
+Short	Lion, London Zoological Gardens	1895	5.7
+Documentary	Forgerons, Les	1895	5.4
+Short	Forgerons, Les	1895	5.4
+Short	Execution of Mary Stuart, The	1895	5.1
+Short	Promenade des congressistes sur le bord de la Sane	1895	5.1
+Documentary	Promenade des congressistes sur le bord de la Sane	1895	5.1
+Documentary	Ateliers de La Ciotat	1895	5

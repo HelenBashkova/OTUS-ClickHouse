@@ -1,0 +1,50 @@
+['Documentary']	 Beira do Rio
+['Drama']	 Casablanca les anges ne volent pas
+['Drama','Family','Short']	 Clara
+['Drama']	 Flor da Pele
+['Comedy']	 Fogo na Roupa
+['Documentary','Short']	 Gaule
+['Short']	 Margem
+['Documentary']	 Margem da Imagem
+['Short']	 Nedjad
+['Comedy']	 Pra Casar?
+['Comedy']	 Proibido Beijar
+['Drama']	 Proibido Sonhar
+['Drama','Short']	 S Um Minuto...
+['Documentary','Short']	 Saint-Henri le cinq septembre
+['Drama']	 San Remo
+['Comedy','Musical']	 Simonal
+['Short']	 Tudo Inveno Nossa
+['Comedy']	 Venise, une nuit
+['Comedy']	 a Maior
+['Romance']	 apkin gelin
+['Drama','Romance']	 arkadas
+['Drama']	 arkadas
+['Comedy']	 arrivato il cavaliere!
+['Comedy']	 arrivato mio fratello
+['Comedy','Fantasy']	 baba torik
+['Short']	 bas l\'ternit
+['Short']	 bas les hommes
+['Drama']	 belles dents
+['Documentary']	 bientt, j\'espre
+['Comedy']	 boire
+['Crime','Drama','Romance']	 bout de souffle
+['Documentary']	 bout portant: Claude Piplu
+['Documentary']	 bout portant: Francis Perrin
+['Comedy','Horror','Short']	 bras raccourcis
+['Short']	 cause d\'Olivia...
+['Drama','Romance']	 cause d\'elle
+['Drama']	 cause d\'un garon
+['Comedy','Crime']	 cause,  cause d\'une femme
+['Drama']	 ce soir
+['Documentary','Short']	 chacun sa sant
+['Drama','Mystery']	 chacun son enfer
+['Documentary']	 cheval sur une frontire
+['Drama','Short']	 ciel ouvert
+['Short']	 cloche pied
+['Drama','Romance']	 coeur joie
+['Short']	 coeur perdu
+['Documentary']	 coeur,  corps,  cris
+['Short']	 colpa del sole
+['Short']	 colpa di Sara
+['Comedy','Musical']	 com Este Que Eu Vou

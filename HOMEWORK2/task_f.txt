@@ -1,0 +1,100 @@
+376764	 173 St.G.B. Blutschande
+376765	 51 StGB
+376878	 Biribi, disciplinaires franais
+376766	 Chi tung chong
+376926	 Flor do Mar
+378596	 Kagiti
+378097	 Xente, Pois No
+377572	 arrivata la parigina
+377574	 arrivato l\'accordatore
+376876	 bicyclette
+376880	 bon pied, bon oeil
+376885	 bout portant: Pauline Carton
+377576	 caduta una donna
+377577	 caduta una donna
+376894	 chacun son Borinage - Images d\'Henri Storck
+376896	 chacun son tour
+376904	 corps et  cris
+376905	 corps perdu
+376908	 couteaux tirs
+376919	 dcouvert
+376912	 demain
+376914	 deux minutes prs
+378031	 draumi srhvers manns
+376924	 fleur de terre
+376929	 force de bras
+376930	 force de courage
+377580	 forte un casino!
+377073	 hjara veraldar
+376934	 l\'air libre
+376938	 l\'attaque!
+376939	 l\'heure o les grands fauves vont boire
+376940	 l\'horizon du sud
+376941	 l\'insu du plein gr
+376943	 l\'ombre d\'un t
+376944	 l\'ombre de King Kong
+376947	 l\'ombre de Vatican
+376945	 l\'ombre de la canaille bleue
+376949	 l\'ombre des tombeaux
+376956	 la belle toile
+376959	 la croise des chemins
+376979	 la recherche du lieu de ma naissance
+376985	 la vie,  l\'amour
+376986	 la vie,  la mort!
+376988	 la vitesse d\'un cheval au galop
+377583	 mezzanotte, butta gi il cadavere
+376997	 mort
+376998	 mort l\'arbitre
+377006	 nous deux
+377007	 nous deux France
+377008	 nous deux la vie
+378127	 ou l\'invisible enfant
+377019	 pied,  cheval et en voiture
+377030	 propos de vous
+377031	 propos des trangers en France
+377035	 qui appartient ce gage?
+377037	 quoi rvent les jeunes films
+377592	 sbarcato un marinaio
+378603	 spermen olimpiyatlarda
+377593	 stato bello amarti
+377047	 titre posthume
+377048	 toi de faire... mignonne
+377057	 trois sur Caroline
+377596	 tutto finito
+377059	 une voix prs... ou La naissance de la IIIe rpublique
+377066	 vos risques et prils
+377067	 vos souhaits... la mort
+377068	 vot\' bon coeur
+377070	 votre sant
+412319	""" Istanbul"""
+412238	""" Proibido Amar"""
+412239	""" Proibido Colar"""
+412173	""" Sombra dos Laranjais"""
+412164	""" cause de mon oncle"""
+412165	""" dossiers ouverts"""
+412286	""" i havet, En"""
+412167	""" la Clairefontaine"""
+412166	""" la branche d\'Olivier"""
+412168	""" la folie, pas du tout"""
+412170	""" la recherche de la nouvelle star"""
+412171	""" nous deux!"""
+412172	""" nous la vie"""
+412174	""" tout perdre"""
+412175	""" vous de jouer Milord"""
+378615	"""!Huff"""
+378616	"""$1,000,000 Chance of a Lifetime"""
+378617	"""$1.98 Beauty Show, The"""
+378618	"""$10,000 Pyramid, The"""
+378619	"""$100,000 Name That Tune"""
+378620	"""$128,000 Question, The"""
+378621	"""$20 Challenge: Paris, The"""
+378622	"""$40 a Day"""
+378623	"""$64,000 Challenge, The"""
+378624	"""$64,000 Question, The"""
+378626	"""$weepstake$"""
+378627	"""\'70s, The"""
+378628	"""\'Allo \'Allo! At the London Palladium"""
+378629	"""\'Allo \'Allo!"""
+378630	"""\'Drehscheibe, Die\'"""
+378631	"""\'N Sync TV"""
+378632	"""\'Orrible"""
